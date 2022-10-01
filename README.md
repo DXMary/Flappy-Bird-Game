@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/112593833/193406965-b06aa9ca-86c7-4ccf
 - Restart Menu.
 - Providing a score for each round.
 - Good graphic game with sound effects and background music.
-
+- Base and pipe created using Adobe Illustrator.
 
 <h2>Development setup(as tested on MacOS)</h2>
 
