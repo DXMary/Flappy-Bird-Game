@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/112593833/193406965-b06aa9ca-86c7-4ccf
 - Font from [https://www.fontspace.com/sesohq](https://www.fontspace.com/sesohq).
 - Background music [Waveshaper - Fight Against Time](https://www.youtube.com/watch?v=vbamxVatGjI).
 - Button.py from [baraltech](https://github.com/baraltech).
-- [Techwithtim's](https://github.com/techwithtim) [series](https://youtu.be/i6xMBig-pP4) provided the basis for this game.
+- [Techwithtim's](https://github.com/techwithtim) [series](https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2) provided the basis for this game.
 
 <h2>Project Status</h2>
 
