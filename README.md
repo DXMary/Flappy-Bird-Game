@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/112593833/193406965-b06aa9ca-86c7-4ccf
 
   ```sh
 
-  pip install pygame
+  pip3 install pygame
 
   ```
   
