@@ -385,7 +385,7 @@ def main_menu(win):
                 if PLAY_BUTTON.checkForInput(MENU_MOUSE_POS):
                     Game(win)
                 if CREDITS_BUTTON.checkForInput(MENU_MOUSE_POS):
-                    webbrowser.open('https://github.com/DXMary/Flappy-Bird-Game', new=2) # put github link
+                    webbrowser.open('https://github.com/DXMary/Flappy-Bird-Game', new=2) 
                 if QUIT_BUTTON.checkForInput(MENU_MOUSE_POS):
                     pygame.quit()
                     sys.exit()
